@@ -1,0 +1,21 @@
+# Carpetas de compilación de ROS 2
+build/
+install/
+log/
+
+# Entornos y temporales de Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Archivos de CMake y C++
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.so
+
+# Archivos de editores y sistema operativo
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
